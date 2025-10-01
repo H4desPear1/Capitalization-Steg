@@ -13,4 +13,4 @@ The method is simple:
 
 ## Installation
 Clone this repo and make sure you have python 3 installed
-'git clone [https://github.com/HadesPear1/](https://github.com/H4desPear1/Capitalization-Steg.git)'
+'git clone https://github.com/H4desPear1/Capitalization-Steg.git'
